@@ -4,8 +4,12 @@ NodeJS script to bulk delete users from Webex API
 ### Requirements
 
 * NodeJS
+* Webex API Bearer token
+* Webex OrgId
 
 ### Usage
+
+Update index.js with Bearer token and OrgId
 
 Run from the commandline
 
